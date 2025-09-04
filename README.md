@@ -10,7 +10,7 @@ This is a simple command-line C program to manage a small library stock. It allo
   6-Display the total number of books in stock
   7-Simple menu-driven interface
 # Files
-  Système de Gestion de Stock.c — Contains the entire program source code with all functions
+  main.c — Contains the entire program source code with all functions
 
 # How to Compile 
   Use a C compiler like gcc:
